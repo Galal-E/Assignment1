@@ -2,4 +2,4 @@
 
 using namespace std; 
 
-int knapSack(int W, int wt[], int val[], int n);
+int knapsack(int W, int wt[], int val[], int n);
